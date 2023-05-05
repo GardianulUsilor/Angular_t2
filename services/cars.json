@@ -1,0 +1,182 @@
+[
+  {
+    "id":"1",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "country": "Japan",
+    "price": 24900,
+    "wishlist": false
+  },
+  {
+    "id":"2",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "country": "Japan",
+    "price": 21900,
+    "wishlist": false
+  },
+  {
+    "id":"3",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2021,
+    "country": "USA",
+    "price": 28900,
+    "wishlist": false
+  },
+  {
+    "id":"4",
+    "make": "BMW",
+    "model": "X5",
+    "year": 2018,
+    "country": "Germany",
+    "price": 45900,
+    "wishlist": false
+  },
+  {
+    "id":"5",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2020,
+    "country": "Germany",
+    "price": 38900,
+    "wishlist": false
+  },
+  {
+    "id":"6",
+    "make": "Chevrolet",
+    "model": "Impala",
+    "year": 2021,
+    "country": "USA",
+    "price": 31600,
+    "wishlist": false
+  },
+  {
+    "id":"7",
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2022,
+    "country": "Japan",
+    "price": 24980,
+    "wishlist": false
+  },
+  {
+    "id":"8",
+    "make": "Kia",
+    "model": "Sorento",
+    "year": 2021,
+    "country": "South Korea",
+    "price": 28890,
+    "wishlist": false
+  },
+  {
+    "id":"9",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "country": "USA",
+    "price": 38990,
+    "wishlist": false
+  },
+  {
+    "id":"10",
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2021,
+    "country": "Japan",
+    "price": 27250,
+    "wishlist": false
+  },
+  {
+    "id":"11",
+    "make": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "country": "Germany",
+    "price": 39500,
+    "wishlist": false
+  },
+  {
+    "id":"12",
+    "make": "Volvo",
+    "model": "XC60",
+    "year": 2021,
+    "country": "Sweden",
+    "price": 41750,
+    "wishlist": false
+  },
+  {
+    "id":"13",
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2022,
+    "country": "Japan",
+    "price": 27995,
+    "wishlist": false
+  },
+  {
+    "id":"14",
+    "make": "Lexus",
+    "model": "NX",
+    "year": 2022,
+    "country": "Japan",
+    "price": 37800,
+    "wishlist": false
+  },
+  {
+    "id":"15",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": 2022,
+    "country": "USA",
+    "price": 28395,
+    "wishlist": false
+  },
+  {
+    "id":"16",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2022,
+    "country": "South Korea",
+    "price": 24100,
+    "wishlist": false
+  },
+  {
+    "id":"17",
+    "make": "Infiniti",
+    "model": "QX50",
+    "year": 2021,
+    "country": "Japan",
+    "price": 37950,
+    "wishlist": false
+  },
+  {
+    "id":"18",
+    "make": "Cadillac",
+    "model": "XT4",
+    "year": 2022,
+    "country": "USA",
+    "price": 35795,
+    "wishlist": false
+  },
+  {
+    "id":"19",
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2021,
+    "country": "USA",
+    "price": 30900,
+    "wishlist": false
+  },
+  {
+    "id":"20",
+    "make": "Porsche",
+    "model": "Macan",
+    "year": 2022,
+    "country": "Germany",
+    "price": 52400,
+    "wishlist": false
+  }
+]
